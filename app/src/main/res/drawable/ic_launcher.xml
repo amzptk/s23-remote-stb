@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple vector launcher icon (green rounded square, white remote).
+     Used instead of PNG mipmaps so the source tree stays text-only. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M18,18h72v72h-72z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,30h20v8h-20zM44,44h20v8h-20zM44,58h20v8h-20zM49,72h10v8h-10z" />
+</vector>

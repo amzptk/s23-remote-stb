@@ -1,0 +1,7 @@
+// Top-level build file for the S23 Remote STB project.
+// Android Gradle Plugin 8.2.2 is compatible with Gradle 8.2 (see
+// gradle/wrapper/gradle-wrapper.properties) and with Android Studio Hedgehog
+// (2023.1.1) and later.
+plugins {
+    id 'com.android.application' version '8.2.2' apply false
+}
